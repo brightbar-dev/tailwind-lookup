@@ -1,0 +1,17 @@
+{
+  "extension_id": "aidmbejficajnpdfdlpgpehbooffagbo",
+  "category": "Developer Tools",
+  "language": "English (United States)",
+  "homepage_url": "https://brightbar.dev/products/tailwind-lookup/",
+  "support_url": "https://github.com/brightbar-dev/tailwind-lookup/issues",
+  "privacy_policy_url": "https://brightbar.dev/privacy/tailwind-lookup",
+  "description": "Tailwind CSS Lookup is the missing browser companion for Tailwind developers.\n\nHover over any element to instantly see its Tailwind CSS classes and the CSS they generate. Search for any Tailwind utility class to look up its CSS output. Click to copy classes to your clipboard.\n\nFEATURES\n- Inspect mode: hover over elements to see Tailwind classes\n- Class search: type any class name to see the CSS it generates\n- Click to copy: click an element to copy its Tailwind classes\n- Page summary: see all unique Tailwind classes used on a page\n- Covers Tailwind CSS v3 default utilities\n- No tracking, no ads, no data collection\n\nPERFECT FOR\n- Learning Tailwind class names\n- Debugging Tailwind layouts\n- Reverse-engineering designs\n- Quick CSS reference while coding\n\nPRIVACY\n- Does NOT collect any data\n- Does NOT transmit anything to external servers\n- All processing is local in your browser\n- Open source",
+  "single_purpose": "Inspect Tailwind CSS classes on any web page element and look up the CSS output that each Tailwind utility class generates.",
+  "permission_justifications": {
+    "storage": "Used to save user preferences such as theme selection and behavior settings. No user data or browsing data is stored.",
+    "activeTab": "Used to access the current tab's DOM when the user activates inspect mode, allowing the extension to read CSS class names from page elements.",
+    "host_permissions": "The content script runs on all pages so users can inspect Tailwind CSS classes on any website they're developing or reviewing. It only reads CSS class names from DOM elements. No page content, form data, or personal information is accessed or transmitted."
+  },
+  "remote_code": false,
+  "mature_content": false
+}
