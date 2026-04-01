@@ -140,6 +140,57 @@ header h1 {
   color: #64748b;
 }
 
+/* Cross-promotion */
+.cross-promo {
+  padding-top: 10px;
+  margin-top: 10px;
+  border-top: 1px solid #e2e8f0;
+}
+
+.cross-promo-heading {
+  font-size: 11px;
+  font-weight: 600;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+
+.cross-promo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cross-promo-item {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.cross-promo-item:hover {
+  background: #f1f5f9;
+}
+
+.cross-promo-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #0ea5e9;
+  white-space: nowrap;
+}
+
+.cross-promo-desc {
+  font-size: 11px;
+  color: #94a3b8;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 /* Footer */
 footer {
   display: flex;
