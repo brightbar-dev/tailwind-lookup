@@ -15,7 +15,7 @@ Inspect Tailwind CSS classes on any element in your browser. Look up any class t
 *Coming soon*
 
 ### From GitHub Release
-1. Download the latest `tailwind-lookup.zip` from [Releases](https://github.com/kendocode/tailwind-lookup/releases)
+1. Download the latest `tailwind-lookup.zip` from [Releases](https://github.com/brightbar-dev/tailwind-lookup/releases)
 2. Unzip into a folder
 3. Open `chrome://extensions/` and enable "Developer mode"
 4. Click "Load unpacked" and select the unzipped folder
@@ -30,7 +30,7 @@ Inspect Tailwind CSS classes on any element in your browser. Look up any class t
 ## Testing
 
 ```bash
-node tests/test-core.mjs
+npm test
 ```
 
 ## Privacy
