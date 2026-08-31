@@ -12,7 +12,7 @@ Inspect Tailwind CSS classes on any element in your browser. Look up any class t
 ## Installation
 
 ### From Chrome Web Store
-*Coming soon*
+[Install Tailwind CSS Lookup](https://chromewebstore.google.com/detail/tailwind-css-lookup/aidmbejficajnpdfdlpgpehbooffagbo)
 
 ### From GitHub Release
 1. Download the latest `tailwind-lookup.zip` from [Releases](https://github.com/brightbar-dev/tailwind-lookup/releases)
