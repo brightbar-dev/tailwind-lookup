@@ -1,5 +1,11 @@
 # Tailwind CSS Lookup
 
+> **Retired 2026-09-15 — no longer maintained.** After 20 weeks on the Chrome Web Store the
+> extension never grew past single-digit users (3 at retirement), and its class database predates
+> Tailwind CSS v4, so it is being withdrawn from the Chrome Web Store rather than rebuilt. The code
+> stays here, read-only, for anyone who wants to fork it. Brightbar's other developer tools:
+> https://brightbar.dev
+
 Inspect Tailwind CSS classes on any element in your browser. Look up any class to see the CSS it generates. The missing browser companion for Tailwind developers.
 
 ## Features
